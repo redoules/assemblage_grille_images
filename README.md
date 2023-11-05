@@ -1,4 +1,4 @@
-# assemble images grid
+# assemble image grid
 Code for assembling a grid of images in dzi format (deep zoom image support)
 
 https://openseadragon.github.io/examples/tilesource-dzi/
